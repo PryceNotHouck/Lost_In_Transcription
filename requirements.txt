@@ -1,0 +1,6 @@
+soundfile~=0.13.1
+librosa~=0.11.0
+torch~=2.8.0
+pathlib~=1.0.1
+transformers~=4.32.1
+jiwer~=4.0.0
