@@ -4,3 +4,8 @@
 3. In terminal, jupyter notebook
 4. Add the server address to a local server configuration in Jupyter settings
 5. Connect to that server
+
+### Llama-2-13B
+1. In terminal (LIT activated) 'hf auth login'
+2. HF model token
+3. Continue to script
